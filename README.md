@@ -14,7 +14,6 @@ I have completed my studies in Bachelor of Computer Application with a specializ
 - 🌱 I’m currently learning DSA and dynamic programming
 - 👯 I’m looking to collaborate on Software Development Projects 
 - 🤔 I’m looking for help in finding internship opportunities
-- 📫 How to reach me: 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gauravkumar1502&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View counts" /> </p>
@@ -30,10 +29,16 @@ I have completed my studies in Bachelor of Computer Application with a specializ
 </p>
          
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKumar1502&count_private=true&theme=bear&show_icons=true" />
-<!---
-<p align="left"> <a href="https://twitter.com/Gauravkuma_r" target="_blank"><img src="https://img.shields.io/twitter/follow/Gauravkuma_r?logo=twitter&style=for-the-badge"/></a> </p>
---->
-📫 Reach me **gauravkumar15021999@gmail.com**
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> 
+         - 📫 How to reach me: **gauravkumar15021999@gmail.com**  
+<a href="https://twitter.com/Gauravkuma_r" target="_blank"><img src="https://img.shields.io/twitter/follow/Gauravkuma_r?logo=twitter&style=for-the-badge"/></a> 
+</p>
+
 <br>
 <!---         
 <hr>
