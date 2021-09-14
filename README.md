@@ -3,6 +3,8 @@
 - 🌱 I’m currently doing MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on instagram gauravkuma.r.
+<br>
+<br>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravkumar1502)](https://github.com/anuraghazra/github-readme-stats)
