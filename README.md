@@ -38,9 +38,9 @@ I have completed my studies in Bachelor of Computer Application with a specializ
 <hr>
 <h3 align="center">Connect with me : </h3>
 <p align="center">
-[go](https://twitter.com/Gauravkuma_r){:target="_blank"}<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gaurav-kumar-3b9132154/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/gauravkuma.r/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://twitter.com/Gauravkuma_r"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gaurav-kumar-3b9132154/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/gauravkuma.r/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" />
 </p>
 
 <hr>
