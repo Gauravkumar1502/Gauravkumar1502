@@ -1,7 +1,7 @@
 <h1 align="center">        Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="25"
-         width="25" />, I'm Gaurav Kumar
+         height="30"
+         width="30" />, I'm Gaurav Kumar
 </h1>
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
@@ -34,8 +34,7 @@ I have completed my studies in Bachelor of Computer Application with a specializ
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> 
-         - 📫 How to reach me: **gauravkumar15021999@gmail.com**  
+<p align="left">
 <a href="https://twitter.com/Gauravkuma_r" target="_blank"><img src="https://img.shields.io/twitter/follow/Gauravkuma_r?logo=twitter&style=for-the-badge"/></a> 
 </p>
 
