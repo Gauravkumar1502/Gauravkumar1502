@@ -27,13 +27,16 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Ishika kesarwani</h1>
+         width="45" />, I'm Gaurav Kumar
+</h1>
+         
 <h5 align="center">
-I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of AIML, from UPES  Dehradun. I am a Data Science enthusiast, web developer, and Photographer. 
+I have completed my studies in Bachelor of Computer Application with a specialization of Software Development and DBMS, from SSSSMV Hudco, Chhattisgarh. I'm Student of Software development and want to try to lear web development. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gauravkumar1502&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View's" /> </p>
 <p>
-<a align= "center" href="https://github.com/ishikkkkaaaa">
+<a align= "center" href="https://github.com/Gauravkumar1502">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikkkkaaaa&theme=radical">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
