@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @Gauravkumar1502
-- 👀 I’m interested in programming specially in java and database
-- 🌱 I’m currently doing MCA
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on instagram gauravkuma.r.
-<br>
-<br>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravkumar1502)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Gauravkumar1502/Gauravkumar1502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -42,7 +32,7 @@ I have completed my studies in Bachelor of Computer Application with a specializ
 --->    
          
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=GauravKumar1502&count_private=true&theme=bear&show_icons=true" />
 
 <p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p>
 
