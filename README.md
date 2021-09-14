@@ -13,17 +13,17 @@ Gauravkumar1502/Gauravkumar1502 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi, I am Ashish 👋
+# Hi, I am Gaurav 👋
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning NodeJS and Competitive Programming
-- 👯 I’m looking to collaborate on Full Stack Web Development Projects
+- 🔭 I’m currently working on DSA
+- 🌱 I’m currently learning DSA and dynamic programming
+- 👯 I’m looking to collaborate on Software Development Projects 
 - 🤔 I’m looking for help in finding internship opportunities
-- 💬 Ask me about JavaScript
 - 📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-AshishChawda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishchawda/)](https://www.linkedin.com/in/ashishchawda/)
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-AshishChawda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-kumar-3b9132154/)](https://www.linkedin.com/in/gaurav-kumar-3b9132154/)
 [![Twitter Badge](https://img.shields.io/badge/-@ashish11chawda-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashish11chawda)](https://twitter.com/ashish11chawda)
 [![Instagram Badge](https://img.shields.io/badge/-@_tachyon._-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_tachyon._/)](https://instagram.com/_tachyon._)
 [![Gmail Badge](https://img.shields.io/badge/-ashish11chawda@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashish11chawda@gmail.com)](mailto:ashish11chawda@gmail.com)
