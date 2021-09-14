@@ -1,11 +1,7 @@
-<!---
-Gauravkumar1502/Gauravkumar1502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="40"
-         width="40" />, I'm Gaurav Kumar
+         height="35"
+         width="35" />, I'm Gaurav Kumar
 </h1>
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
@@ -42,9 +38,9 @@ I have completed my studies in Bachelor of Computer Application with a specializ
 <hr>
 <h3 align="center">Connect with me : </h3>
 <p align="center">
-<a href="https://twitter.com/Gauravkuma_r" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+[go](https://twitter.com/Gauravkuma_r){:target="_blank"}<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gaurav-kumar-3b9132154/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/gauravkuma.r/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://www.instagram.com/gauravkuma.r/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
 </p>
 
 <hr>
