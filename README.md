@@ -1,15 +1,15 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">        Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="25"
          width="25" />, I'm Gaurav Kumar
 </h1>
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
+
 <h5 align="center">
 I have completed my studies in Bachelor of Computer Application with a specialization of Software Development and DBMS, from SSSSMV Hudco, Chhattisgarh. I'm Student of Software development and want to try to lear web development. 
 </h5>
 <br>
-
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning DSA and dynamic programming
 - 👯 I’m looking to collaborate on Software Development Projects 
@@ -33,7 +33,7 @@ I have completed my studies in Bachelor of Computer Application with a specializ
 <!---
 <p align="left"> <a href="https://twitter.com/Gauravkuma_r" target="_blank"><img src="https://img.shields.io/twitter/follow/Gauravkuma_r?logo=twitter&style=for-the-badge"/></a> </p>
 --->
-📫 Reach me**gauravkumar15021999@gmail.com**
+📫 Reach me **gauravkumar15021999@gmail.com**
 <br>
 <!---         
 <hr>
