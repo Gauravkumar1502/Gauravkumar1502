@@ -12,10 +12,17 @@
 Gauravkumar1502/Gauravkumar1502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Hi, I am Gaurav 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Gaurav Kumar
+</h1>
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
+<h5 align="center">
+I have completed my studies in Bachelor of Computer Application with a specialization of Software Development and DBMS, from SSSSMV Hudco, Chhattisgarh. I'm Student of Software development and want to try to lear web development. 
+</h5>
+<br>
 
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning DSA and dynamic programming
@@ -24,21 +31,16 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: 
 <br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Gaurav Kumar
-</h1>
-         
-<h5 align="center">
-I have completed my studies in Bachelor of Computer Application with a specialization of Software Development and DBMS, from SSSSMV Hudco, Chhattisgarh. I'm Student of Software development and want to try to lear web development. 
-</h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gauravkumar1502&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View's" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gauravkumar1502&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View counts" /> </p>
 <p>
 <a align= "center" href="https://github.com/Gauravkumar1502">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikkkkaaaa&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+         
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravkumar1502&theme=neon-palenight&hide_border=false&properties=border">
+         
+<!---    Add image or gif here..!!!
+         <img align="right" height="350" width="400" src="" /> </a>
+--->    
+         
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
 
