@@ -10,6 +10,7 @@
 I have completed my studies in Bachelor of Computer Application with a specialization of Software Development and DBMS, from SSSSMV Hudco, Chhattisgarh. I'm Student of Software development and want to try to lear web development. 
 </h5>
 <br>
+
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning DSA and dynamic programming
 - 👯 I’m looking to collaborate on Software Development Projects 
@@ -32,13 +33,16 @@ I have completed my studies in Bachelor of Computer Application with a specializ
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkumar1502&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+
+         
 
 <p align="left">
 <a href="https://twitter.com/Gauravkuma_r" target="_blank"><img src="https://img.shields.io/twitter/follow/Gauravkuma_r?logo=twitter&style=for-the-badge"/></a> 
 </p>
 
 <br>
+
 <!---         
 <hr>
          <h3 align="center">Connect with me : </h3>
